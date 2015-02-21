@@ -1,0 +1,17 @@
+/**
+ * @file
+ * This is the styling for the .cleared, .clear-left, and .clear-right classes.
+ * This is a handy class to add to items to ensure nothing is obstructing them,
+ * for example, the printed answers for testing purposes.
+ */
+
+.cleared {
+  clear: both;
+}
+
+.clear-left {
+  clear: left;
+}
+.clear-right {
+  clear: right;
+}
