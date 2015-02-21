@@ -7,4 +7,8 @@ To use this, you just need to edit the html. If you want, you can change the col
 The styling is within small partials and is highly re-usable - in most cases you just need to add different classes to the html.
 
 ## Colour scheme
-The colour scheme of this landing page is based on the colour scheme of the European Implementation Collaborative's website - implementation.eu - which I was involved in developing. 
+The colour scheme of this landing page is based on the colour scheme of the European Implementation Collaborative's website - implementation.eu - which I was involved in developing.
+
+# Sample
+A sample of this template can be seen here:
+http://mark.ie/examples/landing-page/index.html
